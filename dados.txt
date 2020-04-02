@@ -1,3 +1,4 @@
 Nome:Leonardo Soares
 Email:leo1996soaes@gmail.com
 Curso:Sistema da informação
+Data de nascimento:24/01/1996
